@@ -1,7 +1,7 @@
 # POS-GOA-RESTAURANT
 > [!CAUTION]
 > Esta versión no es para su uso en producción.
-> Si usas lammp asegurate de realizar la compropación de seguridad `sudo /opt/lampp/lampp security`
+> Si usas lammp asegurate de realizar la comprobación de seguridad `sudo /opt/lampp/lampp security`
 ## Prerrequisitos
 
 Antes de instalar y ejecutar el sistema, asegúrate de tener los siguientes requisitos previos instalados:
