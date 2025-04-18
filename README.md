@@ -22,7 +22,7 @@ Sigue estos pasos para instalar y ejecutar el sistema:
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/tu-usuario/POS-GOA-RESTAURANT.git
+   git clone git@github.com:JordyPirata/POS-GOA-RESTAURANT.git
    cd POS-GOA-RESTAURANT
    ```
 
